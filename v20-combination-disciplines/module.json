@@ -1,0 +1,32 @@
+{
+    "name": "v20-combination-disciplines",
+    "title": "V20 Combination Disciplines",
+    "description": "A module containing the exported V20 Combination Disciplines compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 11,
+        "maximum": 12
+    },
+    "authors": [
+        {
+            "name": "Phoenix Alexander",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Combination Disciplines",
+            "module": "v20-combination-disciplines",
+            "path": "packs/playtest-combination-disciplines-1711749694709.db",
+            "name": "playtest-combination-disciplines-1711749694709",
+            "system": "worldofdarkness"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
